@@ -43,16 +43,16 @@ Aspiring Software Developer
 ![Start Program](screenshots/start_program.png)
 
 ### 2. Add Subject
-![Add Subject](screenshots/01_add_subject.png)
+![Start Program](screenshots/01_start_program.png)
 
 ### 3. View Subjects
-![View Subjects](screenshots/02_view_subjects.png)
+![Add Subject](screenshots/02_add_subject.png)
 
 ### 4. Calculate Study Hours
-![Calculate Study Hours](screenshots/03_calculate_hours.png)
+![View Subjects](screenshots/03_view_subjects.png)
 
 ### 5. Check Progress
-![Check Progress](screenshots/04_check_progress.png)
+![Calculate Study Hours](screenshots/04_study_hours.png)
 
 ### 6. Exit Program
-![Exit Program](screenshots/05_exit_program.png)
+![Check Progress](screenshots/05_progress_exit.png)
