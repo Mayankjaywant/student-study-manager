@@ -47,7 +47,6 @@ Beginner Learning Project — continuously improving.
 
 B.Sc. Computer Science Student  
 Aspiring Software Developer
-## Screenshots
 
 ## Screenshots
 
