@@ -55,16 +55,16 @@ Aspiring Software Developer
 <img src="screenshots/start_program.png" width="500">
 
 ### 2. Add Subject
-<img src="screenshots/01_add_subject.png" width="500">
+<img src="screenshots/01_start_program.png" width="500">
 
 ### 3. View Subjects
-<img src="screenshots/02_view_subjects.png" width="500">
+<img src="screenshots/02_add_subject.png" width="500">
 
 ### 4. Calculate Study Hours
-<img src="screenshots/03_calculate_hours.png" width="500">
+<img src="screenshots/03_view_subjects.png" width="500">
 
 ### 5. Check Progress
-<img src="screenshots/04_check_progress.png" width="500">
+<img src="screenshots/04_study_hours.png" width="500">
 
 ### 6. Exit Program
-<img src="screenshots/05_exit_program.png" width="500">
+<img src="screenshots/05_progress_exit.png" width="500">
