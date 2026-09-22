@@ -1,7 +1,17 @@
 # Student Study Manager
 
 A beginner-friendly Python project for managing study subjects and tracking study progress.
+## Project Demo
 
+This project demonstrates a simple menu-based study management system built with Python.
+
+### What the program can do
+
+- Add and manage study subjects
+- View sorted subjects
+- Calculate weekly and monthly study hours
+- Check study progress
+- Exit safely through a menu-driven system
 ## Features
 
 - Add study subjects
