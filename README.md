@@ -49,20 +49,22 @@ B.Sc. Computer Science Student
 Aspiring Software Developer
 ## Screenshots
 
+## Screenshots
+
 ### 1. Start Program
-![Start Program](screenshots/start_program.png)
+<img src="screenshots/start_program.png" width="500">
 
 ### 2. Add Subject
-![Start Program](screenshots/01_start_program.png)
+<img src="screenshots/01_add_subject.png" width="500">
 
 ### 3. View Subjects
-![Add Subject](screenshots/02_add_subject.png)
+<img src="screenshots/02_view_subjects.png" width="500">
 
 ### 4. Calculate Study Hours
-![View Subjects](screenshots/03_view_subjects.png)
+<img src="screenshots/03_calculate_hours.png" width="500">
 
 ### 5. Check Progress
-![Calculate Study Hours](screenshots/04_study_hours.png)
+<img src="screenshots/04_check_progress.png" width="500">
 
 ### 6. Exit Program
-![Check Progress](screenshots/05_progress_exit.png)
+<img src="screenshots/05_exit_program.png" width="500">
